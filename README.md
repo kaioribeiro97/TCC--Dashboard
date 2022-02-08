@@ -11,8 +11,14 @@ Neste repositório é apresentado brevemente alguns paineis obtidos utilizando a
 - [INPE] - Instituto Nacional de Pesquisas Espaciais
 
 ## Prévia dos painéis 
-
-![precipitacao](./paineis/clima_precipitaçao.png)
+![home](./paineis/home.png)
+![tela_inicial](./paineis/tela_inicial.png)
+![monitoramento](./paineis/monitoramento.png)
+![estoque](./paineis/estoque.png)
+![preco](./paineis/preco_produtor.png)
+![clima-precipitacao](./paineis/clima_precipitaçao.png)
+![previsao](./paineis/previsao.png)
+![qualidade-milho](./paineis/qualidade do milho.png)
 
 ## Autores
 - [gbritom]( https://github.com/gbritom ) 
