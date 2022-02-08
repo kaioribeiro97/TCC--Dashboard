@@ -2,7 +2,7 @@
 
 **Criação de um *dashboard* para análise de dados agronômicos e climáticos na produção agrícola de milho no Distrito Federal**
 
-Neste repositório é apresentado brevemente alguns paineis obtidos utilizando a ferramenta <url=https://powerbi.microsoft.com/>Power BI</url>.
+Neste repositório é apresentado brevemente alguns paineis obtidos utilizando a ferramenta [Power BI](https://powerbi.microsoft.com/).
 
 ## Fonte de dados
 - [CONAB] - Companhia Nacional de Abastecimento
