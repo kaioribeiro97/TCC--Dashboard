@@ -10,15 +10,21 @@ Neste repositório é apresentado brevemente alguns paineis obtidos utilizando a
 - [CEPEA] - Centro de Estudos Avançados em Economia Aplicada
 - [INPE] - Instituto Nacional de Pesquisas Espaciais
 
-## Prévia dos painéis 
-![home](./paineis/home.png)
+## Prévia dos painéis
+Painel inicial
 ![tela_inicial](./paineis/tela_inicial.png)
+Painel de monitoramento que possui uma visão geral
 ![monitoramento](./paineis/monitoramento.png)
+Painel de estoque
 ![estoque](./paineis/estoque.png)
+Painel de preço 
 ![preco](./paineis/preco_produtor.png)
+Painel de precipitação
 ![clima-precipitacao](./paineis/clima_precipitaçao.png)
+Painel de previsão
 ![previsao](./paineis/previsao.png)
-![qualidade-milho](./paineis/qualidade do milho.png)
+Painel de qualidade do milho
+![qualidade-milho](./paineis/qualidade_milho.png)
 
 ## Autores
 - [gbritom]( https://github.com/gbritom ) 
